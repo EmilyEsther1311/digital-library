@@ -1,0 +1,10 @@
+ID,Title,Author,Type,Price,Available,Reservations
+F1,The Lost Horizon,James Hilton,Fiction,2,True,[]
+F2,The Silent Patient,Alex Michaelides,Fiction,3,True,[]
+F3,Metro 2033,Dmitry Glukhovsky,Fiction,2,True,[]
+NF1,Sapiens,Yuval Noah Harari,NonFiction,4,True,[]
+NF2,Educated,Tara Westover,NonFiction,3,True,[]
+NF3,The Selfish Gene,Richard Dawkins,NonFiction,4,True,[]
+C1,Matilda,Roald Dahl,Children,1,True,[]
+C2,Charlotte's Web,E.B. White,Children,1,True,[]
+C3,The Gruffalo,Julia Donaldson,Children,1,True,[]

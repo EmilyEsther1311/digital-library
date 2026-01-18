@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (new-library-management-system)" />
+  </component>
+  <component name="MicroPythonTools">
+    <option name="filterManufacturers" value="false" />
+    <option name="pluginEnabled" value="true" />
+    <option name="portName" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (new-library-management-system)" project-jdk-type="Python SDK" />
+</project>
